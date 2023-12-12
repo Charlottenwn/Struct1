@@ -1,0 +1,7 @@
+Welcome to the Cafe
+Receipt:
+
+1x Bacon with cooked egg €2.45
+
+Tax € 0.22
+Amount due € 2.7
